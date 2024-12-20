@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ferdos98
 - 👀 I’m interested in programming and sports
 - 🌱 I’m currently learning informatics & system development
-- 📫 How to reach me discord @ferrebandit1
+- 📫 How to reach me:
 - ⚡ Fun fact: ...
 
 <!---
